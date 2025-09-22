@@ -30,3 +30,7 @@ python main.py --config configs/imagenetr/imagenet-r_fedprotip.json --n_tasks 10
 ```
 python main.py --config configs/imagenetr/imagenet-r_fedprotip.json --n_tasks 20 --increment 10 
 ```
+
+### Code references 
+* [LANDER](https://github.com/tmtuan1307/LANDER/tree/main)
+* [GPM](https://github.com/sahagobinda/GPM/tree/main) 
