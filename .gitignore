@@ -1,0 +1,15 @@
+*.xml
+.pyc
+*.pth
+*.pt
+*.safetensors
+*.out
+data
+*.png
+*.jpg
+run/
+run
+.ipynb_checkpoints
+__pycache__
+*.log
+.idea
